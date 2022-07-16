@@ -6,4 +6,9 @@
 
 > ahaip: 发现美，记录美及创造美...
 
+![image](https://user-images.githubusercontent.com/109413096/179348450-fff0003d-dd8f-47e6-a991-9ee67772a260.png)
+![image](https://user-images.githubusercontent.com/109413096/179348440-df171124-4fd2-47c3-9fa0-612267b1ef0f.png)
+![image](https://user-images.githubusercontent.com/109413096/179348451-692784e7-48ca-48d5-b816-ba20fb93c394.png)
+
+
 ![Alt](https://repobeats.axiom.co/api/embed/098d0295dbd1c1b9d4855c2234e84e77a43b915d.svg "Repobeats analytics image")
