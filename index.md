@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+## 啊哈，蔡司！
 
-You can use the [editor on GitHub](https://github.com/ahazeiss/ahazeiss/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![image](https://user-images.githubusercontent.com/109413096/179348361-423d875d-c70a-4cab-acc2-8b4fa8d2a9dd.png)
+![image](https://user-images.githubusercontent.com/109413096/179348366-6706f5c0-4b2c-466f-b780-d97c1fb8e17b.png)
+![image](https://user-images.githubusercontent.com/109413096/179348383-a76615a8-73f5-4e54-9c8f-49e3d1b42565.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+> ahaip: 发现美，记录美及创造美...
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ahazeiss/ahazeiss/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![Alt](https://repobeats.axiom.co/api/embed/098d0295dbd1c1b9d4855c2234e84e77a43b915d.svg "Repobeats analytics image")
